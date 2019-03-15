@@ -12,6 +12,7 @@ public class ArraysChecking {
              totadd+=p;
 
         }
+        //testing update
         //System.out.println(totadd);
         do{
 
